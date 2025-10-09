@@ -40,7 +40,9 @@ createPlatform(1100, 400, 200, 10)
 
 
     // TODO 3 - Create Collectables
-
+createCollectable("diamond", 500, 470)
+createCollectable("grace", 900, 200)
+createCollectable("kennedi", 1200, 380)
 
 
     
