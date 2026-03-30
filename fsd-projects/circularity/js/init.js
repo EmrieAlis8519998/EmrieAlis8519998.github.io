@@ -38,6 +38,11 @@ var init = function (window) {
 
 
         // TODO 3 : Call the drawCircle() function
+        drawCircle()
+        drawCircle()
+        drawCircle()
+        drawCircle()
+        drawCircle()
 
 
 
